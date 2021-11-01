@@ -1,0 +1,34 @@
+.active{
+    
+   background-color:ghostwhite;
+   
+    color:silver;
+    
+    
+}
+
+.nonactive{
+    
+    font-size:x-large;
+    font-family: fantasy;
+   }
+.nonactive:hover{
+   text-decoration:none;
+   color:darksalmon;
+}
+
+.poke{
+    font-family:cursive;
+    color:tomato;
+}
+.poke1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:yellowgreen;
+
+}
+#main{
+    background-color:whitesmoke;
+}
+.sub{
+    font-family: 'Dancing Script', cursive;
+}
